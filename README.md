@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <h3 align="left">Programming Languages<h3>
-  <h3 align="left">
+<!--   <h3 align="left"> -->
   <span style="color: #007ACC;">💻</span> 
   <span style="font-family: 'Courier New', monospace; color: #FF5733;">Programming</span> 
   <span style="font-weight: bold; color: #009688;">Languages</span>
