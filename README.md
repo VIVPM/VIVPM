@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek P Marakumbi</h1>
-<h3 align="center">A passionate technologist currently working on Research and Development..</h3>
+<h3 align="center">A passionate technologist currently working on Research and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivpm&label=Profile%20views&color=0e75b6&style=flat" alt="vivpm" /> </p>
 
