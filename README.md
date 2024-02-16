@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek P Marakumbi</h1>
 <h3 align="center">A passionate technologist currently working on Research and Development.</h3>
 
-</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivpm&label=Profile%20views&color=0e75b6&style=flat" alt="vivpm" /> </p>
+
+<p align = "center"><img src = "https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivpm" alt="vivpm" /></a> </p>
 
