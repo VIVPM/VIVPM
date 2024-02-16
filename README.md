@@ -95,8 +95,37 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivpm&show_icons=true&locale=en&layout=compact" alt="vivpm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivpm&show_icons=true&locale=en" alt="vivpm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivpm&" alt="vivpm" /></p>
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vivpm&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<!-- <p align='center'>
+<!-- <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6> -->
+<!-- </p>  -->
+
+<hr>
+<br>
+
+## Github Contribution Streak 🔥 
+<br>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=vivpm&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+
+<hr><br>
+
+
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=vivpm&show_icons=true&theme=tokyonight">
+
+</p>
+
+## Contact Me
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marakumbi-vivek/)
+<a href="mailto:vivpm99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
