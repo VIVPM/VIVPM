@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Programming Languages**
 
-- 📫 Worked on Projects **Programming, Web Development, Blockchain**
+- 📫 Worked on **Programming, Web Development, Blockchain** Projects
 
 - ⚡ Leisure Time **Cricket**
 
