@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek P Marakumbi</h1>
-<h3 align="center">A passionate technologist currently working on Research and Development.</h3>
-
-
+<h3 align="center">A passionate Programmer and Data Analyst.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivpm&label=Profile%20views&color=0e75b6&style=flat" alt="vivpm" /> </p>
 
-<p align = "center"><img src = "https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295"/></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivpm" alt="vivpm" /></a> </p>
+<img align = "right" width="400"  src = "https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -106,6 +102,14 @@
 <!-- <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6> -->
 <!-- </p>  -->
 
+<hr>
+<br>
+
+## Trophies 🏆:
+<br>
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=vivpm&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true">
+</p>
 <hr>
 <br>
 
