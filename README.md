@@ -4,13 +4,11 @@
 
 <img align = "right" width="400"  src = "https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295"/>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **LLM, RAG based Applications**
 
 - 💬 Ask me about **Programming Languages**
 
-- 📫 Worked on **Programming, Web Development, Blockchain** Projects
+- 📫 Worked on **Programming, Web Development, Blockchain, AI/ML, GenAI Model** Projects
 
 - ⚡ Leisure Time **Play Cricket**
 
