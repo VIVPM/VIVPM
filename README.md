@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek P Marakumbi</h1>
-<h3 align="center">A passionate Programmer and Data Analyst.</h3>
+<h3 align="center">A passionate Programmer and AI Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivpm&label=Profile%20views&color=0e75b6&style=flat" alt="vivpm" /> </p>
 
 <img align = "right" width="400"  src = "https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295"/>
