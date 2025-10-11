@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Generative AI, AI/ML**
 
-- 📫 Worked on **Programming, Web Development, Blockchain, AI/ML, GenAI Models** Projects
+- 📫 Worked on **Programming, Web Development, Blockchain, AI/ML, GenAI** Projects
 
 - ⚡ Leisure Time **Play Cricket**
 
