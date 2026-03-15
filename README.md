@@ -4,13 +4,11 @@
 
 <img align = "right" width="400"  src = "https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295"/>
 
-- 🌱 I’m currently learning **Agentic RAG based Applications**
+- 🌱 I’m currently building **Agentic RAG based Applications**
 
 - 💬 Ask me about **Generative AI, AI/ML**
 
 - 📫 Worked on **Programming, Web Development, Blockchain, AI/ML, GenAI** Projects
-
-- ⚡ Leisure Time **Play Cricket**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
