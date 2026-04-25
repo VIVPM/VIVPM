@@ -1,19 +1,38 @@
 <h1 align="center">Hi 👋, I'm Vivek P Marakumbi</h1>
-<h3 align="center">A passionate AI Engineer & Full-Stack Developer.</h3>
+<h3 align="center">AI Engineer · Full-Stack Developer · GenAI Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivpm&label=Profile%20views&color=0e75b6&style=flat" alt="vivpm" />
   <a href="https://www.linkedin.com/in/marakumbi-vivek/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vivpm99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/VIVPM"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+### 🧑‍💻 About Me
 
 <img align="right" width="250" src="https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295" alt="Developer graphic" />
 
+I'm a Computer Science graduate from **KLE Technological University** (9.58 CGPA) with a strong focus on **Generative AI, RAG systems, and full-stack development**. I enjoy building end-to-end AI-powered applications — from designing agentic pipelines with LangChain and CrewAI to deploying production-ready FastAPI + React apps.
+
 - 🌱 Currently building **Agentic RAG-based Applications**
-- 💬 Ask me about **Generative AI & ML**
-- 📫 Projects: **GenAI, AI/ML, Full-Stack, Blockchain**
+- 💬 Ask me about **Generative AI, LLMs, RAG & ML**
+- 🚀 Projects span: **GenAI · AI/ML · Full-Stack · Blockchain**
 
 <br clear="right"/>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔍 [**Document Retrieval System**](https://github.com/VIVPM/document-retrieval-system) | Hybrid RAG with Pinecone + BM25, Docling extraction, cross-encoder reranking & Modal cloud | Python · FastAPI · React · Pinecone · RAG |
+| 🧠 [**Log Classification System**](https://github.com/VIVPM/log-classification-system) | Hybrid classifier using Regex, Gemini Embeddings + LR, and LLM fallback for log labeling | Python · FastAPI · Streamlit · LangChain |
+| 🤖 [**Startup Idea Validator**](https://github.com/VIVPM/market_research_crew) | 5-agent CrewAI pipeline for TAM/SAM/SOM sizing, competitor mapping & MVP strategy | Python · CrewAI · Streamlit · Gemini |
+| 💊 [**Curalink Medical Assistant**](https://github.com/VIVPM/curalink-medical-assistant) | MERN + FastAPI app retrieving research from PubMed, OpenAlex & ClinicalTrials via Llama 3.3 | React · Express · FastAPI · MongoDB · RAG |
+| 📊 [**Credit Risk Modeling**](https://github.com/VIVPM/credit-risk-model) | Predicts Probability of Default & Credit Score (300–900) with 96% recall on defaults | Python · Scikit-learn · FastAPI · Streamlit |
 
 ---
 
@@ -39,7 +58,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-F24E1E?style=for-the-badge&logo=crewai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -82,13 +101,31 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivpm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivpm&show_icons=true&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
 </div>
 
-<br/>
+---
 
 ### 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vivpm&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivpm&theme=tokyo-night&hide_border=true)](https://github.com/vivpm)
+
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Build things that matter. Ship fast, iterate faster."</i>
+  <br/><br/>
+  <b>Thanks for visiting! Feel free to explore my repos and reach out 🙌</b>
 </div>
