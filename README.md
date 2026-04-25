@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek P Marakumbi</h1>
+<h1 align="center">Hi 👋, I'm Vivek Marakumbi</h1>
 <h3 align="center">AI Engineer · Full-Stack Developer · GenAI Builder</h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ I'm a Computer Science graduate from **KLE Technological University** (9.58 CGPA
 | Project | Description | Stack |
 |---|---|---|
 | 🔍 [**Document Retrieval System**](https://github.com/VIVPM/document-retrieval-system) | Hybrid RAG with Pinecone + BM25, Docling extraction, cross-encoder reranking & Modal cloud | Python · FastAPI · React · Pinecone · RAG |
-| 🧠 [**Log Classification System**](https://github.com/VIVPM/log-classification-system) | Hybrid classifier using Regex, Gemini Embeddings + LR, and LLM fallback for log labeling | Python · FastAPI · Streamlit · LangChain |
+| 🧠 [**Log Classification System**](https://github.com/VIVPM/log-classification-system) | Hybrid classifier using Regex, Gemini Embeddings + LR, and LLM fallback for log labeling | Python · FastAPI · Streamlit · Gemini · Scikit-learn|
 | 🤖 [**Startup Idea Validator**](https://github.com/VIVPM/market_research_crew) | 5-agent CrewAI pipeline for TAM/SAM/SOM sizing, competitor mapping & MVP strategy | Python · CrewAI · Streamlit · Gemini |
 | 💊 [**Curalink Medical Assistant**](https://github.com/VIVPM/curalink-medical-assistant) | MERN + FastAPI app retrieving research from PubMed, OpenAlex & ClinicalTrials via Llama 3.3 | React · Express · FastAPI · MongoDB · RAG |
 | 📊 [**Credit Risk Modeling**](https://github.com/VIVPM/credit-risk-model) | Predicts Probability of Default & Credit Score (300–900) with 96% recall on defaults | Python · Scikit-learn · FastAPI · Streamlit |
