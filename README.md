@@ -14,7 +14,7 @@
 
 <img align="right" width="250" src="https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295" alt="Developer graphic" />
 
-I'm a Computer Science graduate from **KLE Technological University** (9.58 CGPA) with a strong focus on **Generative AI, RAG systems, and full-stack development**. I enjoy building end-to-end AI-powered applications — from designing agentic pipelines with LangChain and CrewAI to deploying production-ready FastAPI + React apps.
+I'm an AI Engineer with a strong focus on **Generative AI, RAG systems, and full-stack development**. I enjoy building end-to-end AI-powered applications — from designing agentic pipelines with LangChain and CrewAI to deploying production-ready FastAPI + React apps.
 
 - 🌱 Currently building **Agentic RAG-based Applications**
 - 💬 Ask me about **Generative AI, LLMs, RAG & ML**
