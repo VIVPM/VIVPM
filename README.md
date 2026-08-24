@@ -28,11 +28,11 @@ I'm an AI Engineer with a strong focus on **Generative AI, RAG systems, and full
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔍 [**Document Retrieval System**](https://github.com/VIVPM/document-retrieval-system) | Hybrid RAG with Pinecone + BM25, Docling extraction, cross-encoder reranking & Modal cloud | Python · FastAPI · React · Pinecone · RAG |
-| 🧠 [**Log Classification System**](https://github.com/VIVPM/log-classification-system) | Hybrid classifier using Regex, Gemini Embeddings + LR, and LLM fallback for log labeling | Python · FastAPI · Streamlit · Gemini · Scikit-learn|
-| 🤖 [**Startup Idea Validator**](https://github.com/VIVPM/market-research-crew) | 5-agent CrewAI pipeline for TAM/SAM/SOM sizing, competitor mapping & MVP strategy | Python · CrewAI · Streamlit · Gemini |
-| 💊 [**Curalink Medical Assistant**](https://github.com/VIVPM/curalink-medical-assistant) | MERN + FastAPI app retrieving research from PubMed, OpenAlex & ClinicalTrials via Llama 3.3 | React · Express · FastAPI · MongoDB · RAG |
-| 📊 [**Credit Risk Modeling**](https://github.com/VIVPM/credit-risk-model) | Predicts Probability of Default & Credit Score (300–900) with 96% recall on defaults | Python · Scikit-learn · FastAPI · Streamlit |
+| 🤖 [**Agentic Leads Dashboard**](https://github.com/VIVPM/multi-crew-leads-dashboard) | Scores inbound leads, enriches them with web search & auto-generates outreach email via modular CrewAI agent workflows | Python · CrewAI · FastAPI · React · Supabase |
+| 🔍 [**Document Retrieval System**](https://github.com/VIVPM/document-retrieval-system) | Hybrid RAG fusing Pinecone vectors + BM25 under RRF, with Docling extraction, cross-encoder reranking & Modal cloud | Python · FastAPI · React · Pinecone · RAG |
+| 🛒 [**E-Commerce AI Agent**](https://github.com/VIVPM/ecommerce-agent) | Answers complex queries on products, inventory & order status, routing between data sources with Gemini function calling | Python · FastAPI · React · Vite · Gemini |
+| 💊 [**CuraLink Medical Assistant**](https://github.com/VIVPM/curalink-medical-assistant) | 7-stage clinical RAG over PubMed, OpenAlex & ClinicalTrials.gov, reranked with PubMedBERT & MedCPT for cited answers | React · Express · MongoDB · FastAPI · RAG |
+| 🧠 [**Log Classification System**](https://github.com/VIVPM/log-classification-system) | Hybrid classifier routing each log by source: Regex, Sentence Transformers + Logistic Regression, and Gemini LLM fallback | Python · FastAPI · React · Gemini · Scikit-learn |
 
 ---
 
