@@ -101,7 +101,7 @@ I'm an AI Engineer with a strong focus on **Generative AI, RAG systems, and full
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivpm&show_icons=true&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vivpm&show_icons=true&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
 </div>
 
 ---
@@ -109,7 +109,7 @@ I'm an AI Engineer with a strong focus on **Generative AI, RAG systems, and full
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivpm&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=vivpm&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
