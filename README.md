@@ -1,26 +1,73 @@
-<h1 align="center">Hi 👋, I'm Vivek Marakumbi</h1>
+<h1 align="center">Hi there! 👋 I'm Vivek Marakumbi</h1>
 <h3 align="center">AI Engineer · Full-Stack Developer · GenAI Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivpm&label=Profile%20views&color=0e75b6&style=flat" alt="vivpm" />
-  <a href="https://www.linkedin.com/in/marakumbi-vivek/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vivpm99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/VIVPM"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  Building RAG systems, AI agents, and applications that turn information into useful decisions.
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### ⚡ About Me
 
-<img align="right" width="250" src="https://github.com/VIVPM/VIVPM/assets/116868237/fbf2984b-8de8-42f1-b966-71bf764e6295" alt="Developer graphic" />
+- 🧑‍💻 I build end-to-end AI applications, from retrieval pipelines and agent workflows to FastAPI backends and React interfaces.
+- ☁️ **AWS Certified AI Practitioner — scored 1,000/1,000.**
+- 🔬 My contract research focused on evaluating RAG configurations for multi-hop question answering.
+- 🌱 I'm exploring agentic RAG, context engineering, and LLM evaluation.
+- 🎯 I enjoy improving answer quality, reducing latency, and making AI workflows easier to evaluate and maintain.
+- 🏅 I've earned **1 Gold and 3 Silver medals** in HackerRank Orchestrate hackathons, with a best global rank of **10 out of 3,062**.
 
-I'm an AI Engineer with a strong focus on **Generative AI, RAG systems, and full-stack development**. I enjoy building end-to-end AI-powered applications — from designing agentic pipelines with LangChain and CrewAI to deploying production-ready FastAPI + React apps.
+---
 
-- 🌱 Currently building **Agentic RAG-based Applications**
-- 💬 Ask me about **Generative AI, LLMs, RAG & ML**
-- 🚀 Projects span: **GenAI · AI/ML · Full-Stack · Blockchain**
+### 🛠️ Languages, Frameworks & Tools
 
-<br clear="right"/>
+**💻 Languages & Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,go,html,css,react,vite,tailwind&perline=8" alt="Python, JavaScript, Go, HTML, CSS, React, Vite, Tailwind CSS" />
+</p>
+
+**🤖 AI & Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" />
+</p>
+
+**⚙️ Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis,supabase&perline=8" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis, Supabase" />
+</p>
+
+**☁️ Cloud & Developer Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vercel&perline=8" alt="AWS, Docker, Git, GitHub, GitHub Actions, Postman, Vercel" />
+</p>
+
+---
+
+### 💼 Experience
+
+**AI Engineer — Research Project (Contract)**  
+*Remote · April 2026 – August 2026*
+
+- Built an **eight-stage, coverage-preserving search** over **24K+ RAG configurations**, selecting five systems for multi-hop QA across **8K+ documents and 900 questions** using **332 stage entries**.
+- Established a **top-5% retrieval-quality rank at 95% confidence** for the frozen staged configuration by comparing it with **59 random samples on 100 development questions**.
+- **Tech:** Python · FAISS (HNSW) · BM25 · BGE Reranker · Gemini API · RAGAS
+
+**AI Engineering Extern — Outamation**  
+*Remote · December 2025 – February 2026*
+
+- Built a mortgage-document RAG copilot with **AWS Textract and Pinecone**, cutting ingestion latency from **160s to 45s** through concurrent processing.
+- Improved **F1 from 89% to 94%** with hybrid dense–sparse retrieval and achieved **98% context recall** in a **250-query RAGAS evaluation**.
+- **Tech:** Python · FastAPI · LangChain · Pinecone · AWS Textract · Gemini · RAGAS
+
+**Machine Learning Intern — Pravinya Information Technology Services**  
+*Hubli, India · April 2025 – October 2025*
+
+- Reduced insurance-premium prediction **RMSE from ₹2,000 to ₹1,300** by selecting XGBoost over Random Forest.
+- Used residual analysis to trace larger prediction errors to the young-age segment.
+- **Tech:** Python · XGBoost · scikit-learn · Pandas
 
 ---
 
@@ -28,104 +75,46 @@ I'm an AI Engineer with a strong focus on **Generative AI, RAG systems, and full
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [**Agentic Leads Dashboard**](https://github.com/VIVPM/multi-crew-leads-dashboard) | Scores inbound leads, enriches them with web search & auto-generates outreach email via modular CrewAI agent workflows | Python · CrewAI · FastAPI · React · Supabase |
-| 🔍 [**Document Retrieval System**](https://github.com/VIVPM/document-retrieval-system) | Hybrid RAG fusing Pinecone vectors + BM25 under RRF, with Docling extraction, cross-encoder reranking & Modal cloud | Python · FastAPI · React · Pinecone · RAG |
-| 🛒 [**E-Commerce AI Agent**](https://github.com/VIVPM/ecommerce-agent) | Answers complex queries on products, inventory & order status, routing between data sources with Gemini function calling | Python · FastAPI · React · Vite · Gemini |
-| 💊 [**CuraLink Medical Assistant**](https://github.com/VIVPM/curalink-medical-assistant) | 7-stage clinical RAG over PubMed, OpenAlex & ClinicalTrials.gov, reranked with PubMedBERT & MedCPT for cited answers | React · Express · MongoDB · FastAPI · RAG |
-| 🧠 [**Log Classification System**](https://github.com/VIVPM/log-classification-system) | Hybrid classifier routing each log by source: Regex, Sentence Transformers + Logistic Regression, and Gemini LLM fallback | Python · FastAPI · React · Gemini · Scikit-learn |
+| 🩺 [**CuraLink — Medical Research Assistant**](https://github.com/VIVPM/curalink-medical-assistant) | Seven-stage RAG over PubMed, OpenAlex, and ClinicalTrials.gov, combining hybrid retrieval, MedCPT reranking, and answers with inspectable citations. | FastAPI · React · PostgreSQL · Redis · Langfuse |
+| 💰 [**Buy or Wait — Financial Decision Agent**](https://github.com/VIVPM/hackerrank-buy-or-wait) | Gold-winning hackathon project combining multimodal evidence extraction with a deterministic 90-day financial forecast, a 14-check validator, and 177 offline tests. | Python · GLM-5.3 · Qwen3-VL · Decimal |
+| 🎯 [**Sales Prospect Intelligence Dashboard**](https://github.com/VIVPM/multi-crew-leads-dashboard) | LangGraph workflow that researches and scores leads, drafts personalized outreach, and flags borderline scores for review, with company caching and asynchronous workers. | LangGraph · FastAPI · React · Supabase |
+| 📄 [**Document Retrieval System — Loan-File Copilot**](https://github.com/VIVPM/document-retrieval-system) | Mortgage-packet review with document extraction, hybrid search, page-cited answers, and rule-based checks comparing application claims against supporting documents. | Python · FastAPI · React · AWS Textract · Pinecone |
 
 ---
 
-### 🛠️ Languages & Tools
+### 🎓 Education & Certifications
 
-**💻 Programming Languages & Frontend**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-**🤖 AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-F24E1E?style=for-the-badge&logo=crewai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=for-the-badge&logo=python&logoColor=white)
-
-**🔙 Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-**⚙️ DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+- **B.E. in Computer Science and Engineering**  
+  KLE Technological University · 2020–2024 · **CGPA: 9.58**
 
 ---
 
 ### 📝 Most Used Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vivpm&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIVPM&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vivpm&show_icons=true&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIVPM&show_icons=true&theme=tokyonight&hide_border=true" alt="Vivek's GitHub Stats" />
+</p>
 
 ---
 
 ### 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vivpm&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VIVPM&theme=tokyonight&hide_border=true" alt="Vivek's Contribution Streak" />
+</p>
 
 ---
 
 ### 📈 Activity Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivpm&theme=tokyo-night&hide_border=true)](https://github.com/vivpm)
-
-</div>
-
----
-
-<div align="center">
-  <i>💡 "Build things that matter. Ship fast, iterate faster."</i>
-  <br/><br/>
-  <b>Thanks for visiting! Feel free to explore my repos and reach out 🙌</b>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIVPM&theme=tokyo-night&hide_border=true" alt="Vivek's GitHub Activity Graph" />
+</p>
