@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Vivek Marakumbi</h1>
-<h3 align="center">AI Engineer · Full-Stack Developer · GenAI Builder</h3>
+<h3 align="center">AI Engineer · AI Full-Stack Developer · GenAI Builder</h3>
 
 <p align="center">
   Building RAG systems, AI agents, and applications that turn information into useful decisions.
@@ -22,27 +22,57 @@
 
 **💻 Languages & Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,go,html,css,react,vite,tailwind&perline=8" alt="Python, JavaScript, Go, HTML, CSS, React, Vite, Tailwind CSS" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **🤖 AI & Machine Learning**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" alt="PyTorch, TensorFlow, scikit-learn" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-228B22?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-7C3AED?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-2563EB?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-FFB000?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-181818?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 **⚙️ Backend & Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis,supabase&perline=8" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis, Supabase" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-111111?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
 **☁️ Cloud & Developer Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vercel&perline=8" alt="AWS, Docker, Git, GitHub, GitHub Actions, Postman, Vercel" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-7FEE64?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
