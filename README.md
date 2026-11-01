@@ -14,7 +14,7 @@
 - 🔬 My contract research focused on evaluating RAG configurations for multi-hop question answering.
 - 🌱 I'm exploring agentic RAG, context engineering, and LLM evaluation.
 - 🎯 I enjoy improving answer quality, reducing latency, and making AI workflows easier to evaluate and maintain.
-- 🏅 I've earned **1 Gold and 3 Silver medals** in HackerRank Orchestrate hackathons, with a best global rank of **10 out of 3,062**.
+- 🏅 I've earned **1 Gold and 4 Silver medals** in HackerRank Orchestrate hackathons, with a best global rank of **10 out of 3,062**.
 
 ---
 
